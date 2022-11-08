@@ -1,6 +1,6 @@
 👋 Hi, I'm Garrison! Welcome to my GitHub!
 
-👓 I love React/Typescript and have experience in Ruby on Rails, Javascript, Java, Python, C++, HTML/CSS... The list goes on!
+👓 I love Next.js and other new frontend technologies and have experience in Ruby on Rails, Javascript, Java, Python, C++, HTML/CSS... The list goes on!
 
 🏠 I’m a software engineer at Neighbor
 
