@@ -1,6 +1,6 @@
 👋 Hi, I'm Garrison! Welcome to my GitHub!
 
-👓 I love Next.js and other new frontend technologies and have experience in Ruby on Rails, Javascript, Java, Python, C++, HTML/CSS... The list goes on!
+👓 I'm a full stack developer, but I especially love newer frontend tech like Remix and Next.js. I have professional experience in Ruby on Rails, Golang, Remix, Typescript, Docker, Kubernetes... The list goes on!
 
 🏠 I’m a software engineer at Neighbor
 
