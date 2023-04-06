@@ -4,7 +4,7 @@
 
 🏠 I’m a software engineer at Neighbor
 
-I'm a problem-solver and a decision-maker. I choose to do the most important things, even if they are hard. I am a triathlon runner and I love the outdoors. Coding is my passion which led me to start my career in software engineering!
+I'm a problem-solver and a decision-maker. I choose to do the most important things, even if they are hard. I am a triathlon/marathon runner. I love the outdoors. Coding is my passion which led me to start my career in software engineering!
 
 <!---
 whitagar/whitagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
